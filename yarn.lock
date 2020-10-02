@@ -6,3 +6,8 @@
   version "14.11.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.11.2.tgz#2de1ed6670439387da1c9f549a2ade2b0a799256"
   integrity sha512-jiE3QIxJ8JLNcb1Ps6rDbysDhN4xa8DJJvuC9prr6w+1tIh+QAbYyNF3tyiZNLDBIuBCf4KEcV2UvQm/V60xfA==
+
+typescript@^4.1.0-dev.20201002:
+  version "4.1.0-dev.20201002"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.0-dev.20201002.tgz#848fdf188eaffbf9746366b5f187d13e19b19815"
+  integrity sha512-zgCPK0dJ827FYqALErreXaBrk1uCZTJVoGH4Rv/U1Qs1ueB7zqt2/l+/o+sNQjNyRvkD8PBTzml3OZSQldw+Gw==
